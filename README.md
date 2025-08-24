@@ -23,3 +23,8 @@ Includes **error handling** for missing files, permission issues, and unexpected
    ```bash
    git clone https://github.com/your-username/file-read-write-challenge.git
    cd file-read-write-challenge
+   python file_read_write.py
+   Enter the filename to read: test.txt
+✅ File processed successfully! Modified file saved as 'modified_test.txt'
+
+
